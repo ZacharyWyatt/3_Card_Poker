@@ -1,0 +1,12 @@
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\`Final Exam\`Final Exam Program\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\`Final Exam\`Final Exam Program\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\`Final Exam\`Final Exam Program\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\`Final Exam\`Final Exam Program\FinalProject\FinalProject\bin\Debug\FinalProject.xml
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\`Final Exam\`Final Exam Program\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\`Final Exam\`Final Exam Program\FinalProject\FinalProject\obj\Debug\FinalProject.Resources.resources
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\`Final Exam\`Final Exam Program\FinalProject\FinalProject\obj\Debug\FinalProject.vbproj.GenerateResource.Cache
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\`Final Exam\`Final Exam Program\FinalProject\FinalProject\obj\Debug\FinalProject.vbproj.CoreCompileInputs.cache
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\`Final Exam\`Final Exam Program\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\`Final Exam\`Final Exam Program\FinalProject\FinalProject\obj\Debug\FinalProject.xml
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\`Final Exam\`Final Exam Program\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\`Final Exam\`Final Exam Program\FinalProject\FinalProject\obj\Debug\FinalProject.vbprojResolveAssemblyReference.cache
